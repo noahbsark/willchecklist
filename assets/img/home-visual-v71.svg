@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="590" viewBox="0 0 780 590" role="img" aria-labelledby="title desc">
+<title id="title">Will Checklist six-step preview</title>
+<desc id="desc">A calm product preview showing the six checklist steps with simple cards and checkmarks.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffdf7"/><stop offset="1" stop-color="#eef8f4"/></linearGradient>
+  <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f6b5f"/><stop offset="1" stop-color="#54a38e"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#173f38" flood-opacity=".16"/></filter>
+</defs>
+<rect width="780" height="590" rx="42" fill="url(#bg)"/>
+<circle cx="654" cy="98" r="76" fill="#dff3ea" opacity=".75"/>
+<circle cx="110" cy="492" r="92" fill="#f4dfad" opacity=".35"/>
+<g filter="url(#shadow)">
+  <rect x="88" y="62" width="604" height="466" rx="34" fill="#fffef9" stroke="#d8e8df"/>
+</g>
+<g transform="translate(124 98)">
+  <rect x="0" y="0" width="532" height="68" rx="20" fill="#f4fbf7" stroke="#d9ece4"/>
+  <circle cx="36" cy="34" r="18" fill="url(#mint)"/>
+  <path d="M27 34l6 6 13-15" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="70" y="31" font-family="Arial, sans-serif" font-size="19" font-weight="800" fill="#173f38">Will Checklist</text>
+  <text x="70" y="51" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#667a75">Safe notes only · six steps</text>
+  <rect x="395" y="20" width="104" height="28" rx="14" fill="#fff" stroke="#d8e8df"/>
+  <text x="417" y="39" font-family="Arial, sans-serif" font-size="12" font-weight="800" fill="#1f6b5f">No signup</text>
+</g>
+<g transform="translate(124 194)" font-family="Arial, sans-serif">
+  <rect width="532" height="276" rx="26" fill="#ffffff" stroke="#e1ece6"/>
+  <text x="34" y="48" font-size="26" font-weight="900" fill="#173f38">Your checklist path</text>
+  <text x="34" y="74" font-size="14" font-weight="700" fill="#667a75">Start, organize, review, then save or print.</text>
+  <g transform="translate(34 110)">
+    <g><circle cx="18" cy="18" r="18" fill="#1f6b5f"/><path d="M10 18l6 6 12-14" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="48" y="23" font-size="16" font-weight="800" fill="#173f38">Setup</text></g>
+    <g transform="translate(0 44)"><circle cx="18" cy="18" r="18" fill="#1f6b5f"/><path d="M10 18l6 6 12-14" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="48" y="23" font-size="16" font-weight="800" fill="#173f38">Checklist</text></g>
+    <g transform="translate(0 88)"><circle cx="18" cy="18" r="18" fill="#e8f5ef" stroke="#b8d9cd"/><text x="13" y="24" font-size="17" font-weight="900" fill="#1f6b5f">3</text><text x="48" y="23" font-size="16" font-weight="800" fill="#173f38">Documents</text></g>
+    <g transform="translate(260 0)"><circle cx="18" cy="18" r="18" fill="#e8f5ef" stroke="#b8d9cd"/><text x="13" y="24" font-size="17" font-weight="900" fill="#1f6b5f">4</text><text x="48" y="23" font-size="16" font-weight="800" fill="#173f38">Beneficiaries</text></g>
+    <g transform="translate(260 44)"><circle cx="18" cy="18" r="18" fill="#e8f5ef" stroke="#b8d9cd"/><text x="13" y="24" font-size="17" font-weight="900" fill="#1f6b5f">5</text><text x="48" y="23" font-size="16" font-weight="800" fill="#173f38">Summary</text></g>
+    <g transform="translate(260 88)"><circle cx="18" cy="18" r="18" fill="#e8f5ef" stroke="#b8d9cd"/><text x="13" y="24" font-size="17" font-weight="900" fill="#1f6b5f">6</text><text x="48" y="23" font-size="16" font-weight="800" fill="#173f38">Final review</text></g>
+  </g>
+  <rect x="34" y="230" width="464" height="28" rx="14" fill="#fff7df"/>
+  <text x="54" y="249" font-size="13" font-weight="800" fill="#58451f">Use labels and locations. Leave blanks if unsure.</text>
+</g>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="620" viewBox="0 0 820 620" role="img" aria-labelledby="title desc">
+<title id="title">Six-step will checklist preview</title>
+<desc id="desc">A clean product preview showing a six-step checklist, safe note reminder, and finished summary card.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f1fbf7"/>
+    <stop offset="1" stop-color="#fff6e7"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#17322c" flood-opacity="0.16"/>
+  </filter>
+</defs>
+<rect width="820" height="620" rx="44" fill="url(#bg)"/>
+<circle cx="704" cy="108" r="58" fill="#d98c36" opacity="0.14"/>
+<circle cx="110" cy="500" r="76" fill="#245c52" opacity="0.10"/>
+<g filter="url(#shadow)">
+  <rect x="118" y="70" width="584" height="470" rx="34" fill="#fffdf8" stroke="#e2ded2" stroke-width="2"/>
+</g>
+<rect x="154" y="110" width="196" height="22" rx="11" fill="#245c52"/>
+<rect x="154" y="150" width="420" height="13" rx="6.5" fill="#d8e8e2"/>
+<rect x="154" y="174" width="318" height="13" rx="6.5" fill="#e8e2d8"/>
+<g transform="translate(154 218)">
+  <rect width="512" height="54" rx="18" fill="#f1faf6" stroke="#cce2d9"/>
+  <circle cx="28" cy="27" r="15" fill="#245c52"/>
+  <path d="M20 27.5l5.6 5.6L36.2 21" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="58" y="33" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#172029">Step 1: Safe notes confirmed</text>
+</g>
+<g transform="translate(154 288)">
+  <rect width="512" height="54" rx="18" fill="#fff" stroke="#e2ded2"/>
+  <circle cx="28" cy="27" r="15" fill="#245c52" opacity="0.92"/>
+  <path d="M20 27.5l5.6 5.6L36.2 21" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="58" y="33" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#172029">Step 2: Checklist</text>
+</g>
+<g transform="translate(154 358)">
+  <rect width="512" height="54" rx="18" fill="#fff" stroke="#e2ded2"/>
+  <circle cx="28" cy="27" r="15" fill="#fff" stroke="#245c52" stroke-width="3"/>
+  <text x="23" y="33" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#245c52">3</text>
+  <text x="58" y="33" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#172029">Documents</text>
+</g>
+<g transform="translate(154 428)">
+  <rect width="512" height="66" rx="20" fill="#fff8ea" stroke="#f1d8ad"/>
+  <text x="24" y="28" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#49351c">Safe reminder</text>
+  <text x="24" y="49" font-family="Arial, sans-serif" font-size="15" fill="#5c4b31">Use labels and locations. Leave blanks if unsure.</text>
+</g>
+<g transform="translate(512 116)">
+  <rect width="132" height="42" rx="21" fill="#245c52"/>
+  <text x="31" y="27" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#fff">Continue</text>
+</g>
+</svg>

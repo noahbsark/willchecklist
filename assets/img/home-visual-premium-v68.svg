@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="590" viewBox="0 0 760 590" role="img" aria-labelledby="title desc">
+<title id="title">Six step will checklist preview</title>
+<desc id="desc">A clean preview card showing the six-step Will Checklist flow with simple checkmarks and safe notes.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#F7F5EA"/><stop offset="1" stop-color="#E9F5EF"/></linearGradient>
+  <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#FFFDF6"/><stop offset="1" stop-color="#F8FCF8"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#123A35" flood-opacity="0.15"/></filter>
+</defs>
+<rect width="760" height="590" rx="42" fill="url(#bg)"/>
+<circle cx="94" cy="96" r="46" fill="#DDEFE8" opacity=".9"/>
+<circle cx="676" cy="496" r="64" fill="#F4DDC8" opacity=".75"/>
+<g filter="url(#shadow)">
+  <rect x="118" y="74" width="524" height="442" rx="32" fill="url(#panel)" stroke="#D7E7DF"/>
+  <rect x="152" y="112" width="236" height="18" rx="9" fill="#173F39"/>
+  <rect x="152" y="144" width="342" height="12" rx="6" fill="#A7BDB7"/>
+  <rect x="152" y="178" width="456" height="56" rx="18" fill="#EAF6F1" stroke="#D5E8DF"/>
+  <text x="182" y="212" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#173F39">Safe notes only</text>
+  <text x="314" y="212" font-family="Inter, Arial, sans-serif" font-size="15" fill="#516866">labels and locations, not secrets</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#173F39">
+    <g transform="translate(152 268)"><rect width="456" height="44" rx="16" fill="#FFFFFF" stroke="#E1EAE5"/><circle cx="28" cy="22" r="13" fill="#1F6B5F"/><path d="M21 22.5l5 5 10-12" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="58" y="28">Setup</text></g>
+    <g transform="translate(152 322)"><rect width="456" height="44" rx="16" fill="#FFFFFF" stroke="#E1EAE5"/><circle cx="28" cy="22" r="13" fill="#1F6B5F"/><path d="M21 22.5l5 5 10-12" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="58" y="28">Checklist</text></g>
+    <g transform="translate(152 376)"><rect width="456" height="44" rx="16" fill="#FFFFFF" stroke="#E1EAE5"/><circle cx="28" cy="22" r="13" fill="#D7E8E1"/><text x="23" y="28" font-size="16" fill="#1F6B5F">3</text><text x="58" y="28">Documents</text></g>
+    <g transform="translate(152 430)"><rect width="456" height="44" rx="16" fill="#FFFFFF" stroke="#E1EAE5"/><circle cx="28" cy="22" r="13" fill="#F0DCC9"/><text x="23" y="28" font-size="16" fill="#173F39">4</text><text x="58" y="28">Beneficiaries</text></g>
+  </g>
+</g>
+<g transform="translate(500 70)">
+  <rect x="0" y="0" width="138" height="96" rx="24" fill="#173F39" opacity=".96"/>
+  <text x="24" y="40" font-family="Inter, Arial, sans-serif" font-size="14" fill="#BBD7CE">Next</text>
+  <text x="24" y="66" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">Documents</text>
+</g>
+</svg>

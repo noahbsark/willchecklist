@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" role="img" aria-label="Simple six-step checklist preview">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdf8"/>
+      <stop offset="1" stop-color="#f1faf6"/>
+    </linearGradient>
+    <linearGradient id="soft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8f6f0"/>
+      <stop offset="1" stop-color="#fff1d5"/>
+    </linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="136%">
+      <feDropShadow dx="0" dy="26" stdDeviation="28" flood-color="#12342f" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="760" height="590" rx="54" fill="url(#soft)" opacity=".75"/>
+  <circle cx="662" cy="102" r="82" fill="#dff4eb" opacity=".9"/>
+  <circle cx="86" cy="492" r="104" fill="#fff3df" opacity=".95"/>
+  <g filter="url(#shadow)">
+    <rect x="116" y="74" width="528" height="442" rx="34" fill="url(#card)" stroke="#e4ded2"/>
+  </g>
+  <rect x="158" y="116" width="136" height="18" rx="9" fill="#e3f4ed"/>
+  <text x="158" y="170" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="900" fill="#142229">Will checklist</text>
+  <text x="158" y="202" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#5d6d73">One clear step at a time.</text>
+  <rect x="470" y="126" width="110" height="42" rx="21" fill="#1f6b5f"/>
+  <text x="525" y="153" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="900" fill="#fffdf8">Next</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="17" font-weight="850" fill="#142229">
+    <g transform="translate(158 244)">
+      <rect width="444" height="50" rx="17" fill="#eef8f4" stroke="#b9d8cf"/>
+      <circle cx="26" cy="25" r="13" fill="#1f6b5f"/>
+      <path d="M20 25l5 5 10-14" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="58" y="31">Setup</text>
+      <text x="366" y="31" font-size="13" fill="#1f6b5f">saved</text>
+    </g>
+    <g transform="translate(158 308)">
+      <rect width="444" height="50" rx="17" fill="#fffdf8" stroke="#e4ded2"/>
+      <circle cx="26" cy="25" r="13" fill="#e3f4ed"/>
+      <text x="21" y="31" font-size="15" fill="#1f6b5f">2</text>
+      <text x="58" y="31">Checklist</text>
+    </g>
+    <g transform="translate(158 372)">
+      <rect width="444" height="50" rx="17" fill="#fffdf8" stroke="#e4ded2"/>
+      <circle cx="26" cy="25" r="13" fill="#e3f4ed"/>
+      <text x="21" y="31" font-size="15" fill="#1f6b5f">3</text>
+      <text x="58" y="31">Documents</text>
+    </g>
+    <g transform="translate(158 436)">
+      <rect width="444" height="50" rx="17" fill="#fffdf8" stroke="#e4ded2"/>
+      <circle cx="26" cy="25" r="13" fill="#e3f4ed"/>
+      <text x="21" y="31" font-size="15" fill="#1f6b5f">4</text>
+      <text x="58" y="31">Beneficiaries</text>
+    </g>
+  </g>
+  <path d="M604 472c31-35 61-33 80-15 18 17 11 48-23 57-36 10-70-9-57-42z" fill="#f0b45d" opacity=".42"/>
+</svg>

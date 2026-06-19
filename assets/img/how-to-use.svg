@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+<title id="title">Simple instructions card</title><desc id="desc">A friendly instruction board with three safe steps and a large checkmark path.</desc>
+<rect width="640" height="420" rx="36" fill="#e7f4ef"/>
+<circle cx="535" cy="82" r="54" fill="#fff3df"/>
+<path d="M80 82h360a28 28 0 0 1 28 28v220a28 28 0 0 1-28 28H80a28 28 0 0 1-28-28V110a28 28 0 0 1 28-28Z" fill="#fffdf8" stroke="#d8d0c0" stroke-width="4"/>
+<path d="M102 140h270" stroke="#245c52" stroke-width="16" stroke-linecap="round"/><path d="M102 198h300" stroke="#d8d0c0" stroke-width="12" stroke-linecap="round"/><path d="M102 252h254" stroke="#d8d0c0" stroke-width="12" stroke-linecap="round"/>
+<circle cx="486" cy="272" r="74" fill="#245c52"/><path d="m448 273 24 24 54-66" fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#d98c36"><circle cx="93" cy="198" r="8"/><circle cx="93" cy="252" r="8"/><circle cx="93" cy="306" r="8"/></g><path d="M102 306h210" stroke="#d8d0c0" stroke-width="12" stroke-linecap="round"/>
+</svg>

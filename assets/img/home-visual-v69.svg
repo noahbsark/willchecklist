@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="590" viewBox="0 0 760 590" role="img" aria-labelledby="title desc">
+<title id="title">Six-step will checklist product preview</title>
+<desc id="desc">A calm checklist interface with six guided steps and safe-note reminders.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#F2FAF6"/>
+    <stop offset="1" stop-color="#FFF6E8"/>
+  </linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/>
+    <stop offset="1" stop-color="#FFFDF7"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#183F39" flood-opacity="0.13"/>
+  </filter>
+</defs>
+<rect width="760" height="590" rx="46" fill="url(#bg)"/>
+<circle cx="650" cy="82" r="74" fill="#F0B25F" opacity="0.22"/>
+<circle cx="92" cy="520" r="98" fill="#1F6B5F" opacity="0.10"/>
+<g filter="url(#shadow)">
+  <rect x="102" y="58" width="556" height="474" rx="34" fill="url(#card)" stroke="#DDE8E1"/>
+  <rect x="132" y="88" width="496" height="62" rx="22" fill="#183F39"/>
+  <text x="166" y="126" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">Will Checklist</text>
+  <text x="478" y="124" fill="#BFE7D9" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">safe prep</text>
+  <rect x="132" y="178" width="496" height="70" rx="22" fill="#F2FAF6" stroke="#DDE8E1"/>
+  <circle cx="174" cy="213" r="18" fill="#1F6B5F"/>
+  <path d="M165 213l6 6 13-14" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="210" y="207" fill="#183F39" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Step 1: Setup</text>
+  <text x="210" y="230" fill="#5C6F6A" font-family="Inter, Arial, sans-serif" font-size="14">Confirm safe notes only.</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="15" font-weight="750">
+    <rect x="132" y="270" width="148" height="58" rx="18" fill="#FFFFFF" stroke="#DDE8E1"/>
+    <text x="158" y="306" fill="#183F39">Checklist</text>
+    <rect x="306" y="270" width="148" height="58" rx="18" fill="#FFFFFF" stroke="#DDE8E1"/>
+    <text x="334" y="306" fill="#183F39">Documents</text>
+    <rect x="480" y="270" width="148" height="58" rx="18" fill="#FFFFFF" stroke="#DDE8E1"/>
+    <text x="500" y="306" fill="#183F39">Beneficiaries</text>
+  </g>
+  <g>
+    <rect x="132" y="360" width="496" height="48" rx="17" fill="#FFF9ED" stroke="#F0D3A6"/>
+    <text x="164" y="390" fill="#6A5123" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="750">Use labels and locations — never passwords or private numbers.</text>
+  </g>
+  <rect x="132" y="438" width="212" height="54" rx="20" fill="#1F6B5F"/>
+  <text x="166" y="472" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="850">Start checklist</text>
+  <rect x="366" y="438" width="142" height="54" rx="20" fill="#FFFFFF" stroke="#BFD8CF"/>
+  <text x="404" y="472" fill="#1F6B5F" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="850">Continue</text>
+</g>
+</svg>

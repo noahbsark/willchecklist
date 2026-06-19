@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img" aria-label="Six-step will preparation checklist preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2fbf7"/>
+      <stop offset="1" stop-color="#fff6e6"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#18342f" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect width="720" height="560" rx="44" fill="url(#bg)"/>
+  <circle cx="616" cy="78" r="64" fill="#dff4eb" opacity=".9"/>
+  <circle cx="90" cy="480" r="84" fill="#fff1d5" opacity=".9"/>
+  <g filter="url(#shadow)">
+    <rect x="112" y="76" width="496" height="408" rx="30" fill="#fffdf8" stroke="#e2ded2"/>
+  </g>
+  <rect x="154" y="118" width="170" height="18" rx="9" fill="#e7f4ef"/>
+  <rect x="154" y="152" width="310" height="24" rx="12" fill="#17232a" opacity=".94"/>
+  <rect x="154" y="194" width="410" height="14" rx="7" fill="#d3ddd9"/>
+  <rect x="154" y="216" width="320" height="14" rx="7" fill="#e7e0d5"/>
+  <g font-family="Inter, Arial, sans-serif" font-weight="800" font-size="18" fill="#17232a">
+    <g transform="translate(154 262)">
+      <rect width="412" height="46" rx="15" fill="#eef8f4" stroke="#cfe5dd"/>
+      <circle cx="24" cy="23" r="11" fill="#1f6b5f"/><path d="M19 23l4 4 7-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="52" y="29">Setup complete</text>
+    </g>
+    <g transform="translate(154 322)">
+      <rect width="412" height="46" rx="15" fill="#fffdf8" stroke="#e2ded2"/>
+      <circle cx="24" cy="23" r="11" fill="#e7f4ef"/><text x="20" y="29" fill="#1f6b5f">2</text>
+      <text x="52" y="29">Checklist</text>
+    </g>
+    <g transform="translate(154 382)">
+      <rect width="412" height="46" rx="15" fill="#fffdf8" stroke="#e2ded2"/>
+      <circle cx="24" cy="23" r="11" fill="#e7f4ef"/><text x="20" y="29" fill="#1f6b5f">3</text>
+      <text x="52" y="29">Documents</text>
+    </g>
+  </g>
+  <rect x="422" y="116" width="104" height="34" rx="17" fill="#1f6b5f"/>
+  <text x="474" y="138" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="14" fill="#fffdf8">Next step</text>
+  <path d="M506 450c27-33 49-33 67-22 18 12 22 35 3 49-26 20-74 6-70-27z" fill="#f0b45d" opacity=".48"/>
+</svg>
